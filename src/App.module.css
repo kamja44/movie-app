@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "nanayang";
+  src: url("../font/nanayang.ttf") format("truetype");
+  font-weight: normal;
+}
+
+.title {
+  font-family: "nanayang";
+  font-weight: bold;
+  font-size: 20px;
+}
