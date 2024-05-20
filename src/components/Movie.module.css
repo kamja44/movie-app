@@ -27,8 +27,11 @@
 .movie__title,
 .movie__year {
   margin: 0;
-  font-weight: 300;
+  font-weight: bold;
   text-decoration: none;
+}
+.movie__p {
+  font-size: 20px;
 }
 
 .movie__title a {
@@ -45,6 +48,7 @@
   display: flex;
   flex-wrap: wrap;
   margin: 5px 0px;
+  font-size: 22px;
 }
 
 .movie__genres li,
