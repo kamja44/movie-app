@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movie-app/static/css/main.d8f93e88.css",
-    "main.js": "/movie-app/static/js/main.10e01e74.js",
+    "main.js": "/movie-app/static/js/main.62cdb42b.js",
     "static/media/nanayang.ttf": "/movie-app/static/media/nanayang.eeb2969684047be95a7d.ttf",
     "index.html": "/movie-app/index.html",
     "main.d8f93e88.css.map": "/movie-app/static/css/main.d8f93e88.css.map",
-    "main.10e01e74.js.map": "/movie-app/static/js/main.10e01e74.js.map"
+    "main.62cdb42b.js.map": "/movie-app/static/js/main.62cdb42b.js.map"
   },
   "entrypoints": [
     "static/css/main.d8f93e88.css",
-    "static/js/main.10e01e74.js"
+    "static/js/main.62cdb42b.js"
   ]
 }
